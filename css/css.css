@@ -2,12 +2,10 @@ body{
     background-color: black;
     margin: 0;
 }
-
 .top-div{
     display: flex;
     flex-direction: column;
 }
-
 .head-div1{
     margin-top: 80px;
     margin-left: 40px;
@@ -20,12 +18,7 @@ body{
     padding: 40px;
     padding-top: 10px;
     padding-bottom: 10px;
-    
-}
-
-.head-div2{
-}
-
+    }
 .head-txt{
     color: white;
     font-family: 'Oswald', sans-serif;
@@ -33,7 +26,6 @@ body{
     font-size: 100px;
     margin: 0;
 }
-
 .head-txt2{
     color: white;
     font-family: 'Oswald', sans-serif;
@@ -41,11 +33,9 @@ body{
     font-size: 100px;
     margin: 0;
 }
-
 .img1{
     width: 30%;
 }
-
 .home-div1{
     border: solid;
     border-color: aliceblue;
@@ -57,14 +47,12 @@ body{
     padding-top: 15px;
     padding-bottom: 15px;
 }
-
 .text-2{
     color: white;
     font-family: 'Oswald', sans-serif;
     font-weight: 200;
     font-size: 20px;
 }
-
 .home-div2{
     border: solid;
     border-color: aliceblue;
@@ -83,7 +71,6 @@ body{
     font-family: 'Oswald', sans-serif;
     font-weight: 600;
     font-size: 60px;
-
 }
 .text-3{
     color: white;
@@ -91,7 +78,6 @@ body{
     font-weight: 200;
     font-size: 20px;
 }
-
 .home-div3{
     border: solid;
     border-color: aliceblue;
@@ -105,7 +91,6 @@ body{
     padding-bottom: 15px;
     width: 80%;
 }
-
 .text-4{
     color: white;
     font-family: 'Oswald', sans-serif;
@@ -113,7 +98,6 @@ body{
     text-align: center;
     font-size: 40px;
 }
-
 .home-div4{
     display: flex;
     flex-direction: column;
